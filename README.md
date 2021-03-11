@@ -1,4 +1,6 @@
-# quiz
+# Quiz
+
+Building a Vue.js quiz project. Current project is not completed.
 
 ## Project setup
 ```
